@@ -1,6 +1,6 @@
 # carrieschreiner
 
-My final website for web design 2
+Carrie Schreiner's UX Research portfolio with some of my UX design work as well.
 
 ## Resources
 
